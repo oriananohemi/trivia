@@ -1,5 +1,7 @@
 # DIVERTICOVID
 
+Juego realizado con mucho amor y ganas de aprender por: Dupla: 4.1 Katerin Nieto y Oriana Reina para el ingreso a Laboratoria.
+
 Es un juego de trivias de entretenimiento, el cual se clasifica en peliculas, series y tv/novelas, donde se pone a prueba tus conocimientos en estos generos.
 
 [Demo](https://oriananohemi.github.io/trivia-laboratoria/)
@@ -29,7 +31,3 @@ Cada trivia tiene cuatro opciones de respuestas, el usuario tiene 15segundos par
 Al finalizar las 3 trivias el usuario tiene la posibilidad de mirar su puntaje en el juego, jugar con otro tema o iniciar con un nuevo nombre de usuario.
 
 <img width=300 src="./demoProyecto/Screen Shot 2020-08-23 at 15.27.53.png">
-
-
-
-Realizado con mucho amor y ganas de aprender por: Dupla: 4.1 Katerin Nieto y Oriana Reina para el ingreso a Laboratoria.
