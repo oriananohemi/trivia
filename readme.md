@@ -2,9 +2,9 @@
 
 Juego realizado con mucho amor y ganas de aprender por: Dupla: 4.1 Katerin Nieto y Oriana Reina para el ingreso a Laboratoria.
 
-Es un juego de trivias de entretenimiento, el cual se clasifica en peliculas, series y tv/novelas, donde se pone a prueba tus conocimientos en estos generos.
+DivertiCOVID, es un juego de trivias de entretenimiento, el cual se clasifica en peliculas, series y tv/novelas, donde se pone a prueba tus conocimientos en estos generos.
 
-[Demo](https://oriananohemi.github.io/trivia-laboratoria/)
+[Demo del proyecto](https://oriananohemi.github.io/trivia-laboratoria/)
 
 ## Prototipo
 
