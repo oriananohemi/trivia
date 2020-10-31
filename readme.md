@@ -8,11 +8,7 @@ DivertiCOVID, es un juego de trivias de entretenimiento, el cual se clasifica en
 
 ## Prototipo
 
-<img width=300 src="./demoProyecto/Sketch 1 - Oriana.jpeg">
-
-<img width=300 src="./demoProyecto/Sketch 2 - Katerin.jpeg">
-
-<img width=300 src="./demoProyecto/Prototipo Sketch unificado.jpeg">
+<img width=200 src="./demoProyecto/Sketch 1 - Oriana.jpeg"> <img width=200 src="./demoProyecto/Sketch 2 - Katerin.jpeg"> <img width=200 src="./demoProyecto/Prototipo Sketch unificado.jpeg">
 
 ## Demo
 
